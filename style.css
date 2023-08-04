@@ -1,0 +1,15 @@
+.recipe.frontpage {
+    border: 2px solid darkviolet;
+}
+
+
+.intro {
+    color:darkmagenta;
+    font-weight: bold;
+    text-align: center;
+}
+
+.list {
+    color: violet;
+    
+}
