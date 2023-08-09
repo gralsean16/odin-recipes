@@ -1,5 +1,8 @@
 .recipe.frontpage {
-    border: 2px solid darkviolet;
+    border: 2px dotted darkviolet;
+    width: 400px;
+    height: auto;
+    margin: 10px auto;
 }
 
 
@@ -10,6 +13,9 @@
 }
 
 .list {
+    display: table;
+    list-style: none;
+    margin: 10px auto;
+    padding: 0;
     color: violet;
-    
 }
